@@ -1,0 +1,21 @@
+.album-tracks {
+  width: 100%;
+}
+.album-tracks header {
+  padding: 1em;
+  background: #002626;
+  color: #fff;
+}
+
+.album-tracks ul {
+  padding: 0;
+}
+
+.album-tracks ul li {
+  padding: 5px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #f1f3f4;
+  margin-bottom: 2px;
+}
